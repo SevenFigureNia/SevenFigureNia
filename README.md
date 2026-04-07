@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**SevenFigureNia/SevenFigureNia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Hi, I’m Joy  an aspiring software developer.
 
-Here are some ideas to get you started:
+    I’m currently learning and building my skills in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    I enjoy creating projects that solve real-world problems.
+
+    Right now, I’m working on ideas like AutoConnect.
+
+    I’m still early in my journey, but I’m committed to growing.
+    
+    I’m also interested in business and building opportunities.
+    
+    I want to combine tech skills with real-life solutions.
+    
+    I’m looking for guidance and mentorship in this field.
+    
+    I’m open to learning from others and new experiences.
 -->
