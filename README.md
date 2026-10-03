@@ -1,5 +1,5 @@
 Hi, I’m Dania Myers
-Software Engineer | Full-Stack Developer | Builder
+Software Engineer | Full Stack Developer | Builder
 Welcome to my GitHub.
 
 About Me
