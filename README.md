@@ -5,7 +5,6 @@ Welcome to my GitHub.
 
 About Me
   
-  Former Automotive Engineer and Entrepreneur turned Full-Stack Developer. 
 My background in Automotive and entrepreneurship shaped the way I approach technology with curiosity, analytical thinking, and a strong focus on building solutions that address real world problems. 
 
 Tech Stack
